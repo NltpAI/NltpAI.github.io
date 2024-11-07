@@ -4,7 +4,7 @@ const messages_div = document.getElementById('messages');
 
 // Set API endpoint and API key
 const apiEndpoint = 'https://api.groq.com/openai/v1/chat/completions';
-const apiKey = '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';
+const apiKey = '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';
 
 send_btn.addEventListener('click', () => {
     const user_message = user_input.value.trim();
